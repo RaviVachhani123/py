@@ -5,3 +5,4 @@ cir=2*pi*r
 
 print("area",area)
 print("cir" ,cir)
+#edfghjk
